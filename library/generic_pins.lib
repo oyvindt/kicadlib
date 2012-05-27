@@ -1,0 +1,17 @@
+EESchema-LIBRARY Version 2.3  Date: Sun 27 May 2012 14:59:44 CEST
+#encoding utf-8
+#
+# 3_PIN
+#
+DEF 3_PIN P 0 40 Y Y 1 F N
+F0 "P" 0 -200 60 H V C CNN
+F1 "3_PIN" 0 200 60 H V C CNN
+DRAW
+S -50 150 100 -150 0 1 0 N
+X ~ 1 -200 100 150 R 50 50 1 1 I
+X ~ 2 -200 0 150 R 50 50 1 1 I
+X ~ 3 -200 -100 150 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
